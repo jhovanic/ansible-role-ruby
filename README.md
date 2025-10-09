@@ -1,3 +1,14 @@
+# ⚠️ **ARCHIVED REPOSITORY** ⚠️
+
+**This repository has been archived and is no longer actively maintained.**
+
+It is kept here for historical purposes, reference, and educational use.
+
+* **No new features, updates, or bug fixes will be added.**
+* **Issues and Pull Requests are disabled or will be ignored.**
+* Use this code **at your own risk**.
+
+
 # Ansible Role: Ruby
 
 [![Build Status](https://travis-ci.org/JhovaniC/ansible-role-ruby.svg?branch=master)](https://travis-ci.org/JhovaniC/ansible-role-ruby)
